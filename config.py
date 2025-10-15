@@ -14,7 +14,7 @@ SHORT_TUT = "https://t.me/VEriwfy/36"
 
 # Bot Configuration
 SESSION = "Joseph"
-TOKEN = "642712"
+BOT_TOKEN = ""
 API_ID = "24890303"
 API_HASH = "94cf78d1e6883ecb10f32e31fc23cfe0"
 WORKERS = 5
